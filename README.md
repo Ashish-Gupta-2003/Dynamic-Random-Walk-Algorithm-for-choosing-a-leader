@@ -1,1 +1,2 @@
 # Dynamic-Random-Walk-Algorithm-for-choosing-a-leader
+We performed an experiment, in which there were 54 persons who gave their top 30 preference list in order for whom they want to be the leader. It was found that the result matched most of the times to the person, who was actually very popular and helping, in other words we were able to find out leaders (persons with top votes) by just running a algorithm. How nice it is!
